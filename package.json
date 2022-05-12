@@ -2,5 +2,8 @@
   "name": "cursoNodeJS",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "through2-map": "^3.0.0"
+  }
 }
